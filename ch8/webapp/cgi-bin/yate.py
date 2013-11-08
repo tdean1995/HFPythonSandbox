@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 from string import Template
 
 def start_response(resp="text/html"):

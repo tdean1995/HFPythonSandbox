@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 
 class AthleteList(list):
     def __init__(self,a_name,a_dob = None, a_times = []):

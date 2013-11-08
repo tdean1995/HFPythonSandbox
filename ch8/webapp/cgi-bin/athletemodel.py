@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pickle
 from athletelist import AthleteList
 
